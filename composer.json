@@ -1,5 +1,5 @@
 {
-    "name": "techtailor/laravel-binance-api",
+    "name": "oralunal/laravel-binance-api",
     "description": "A Laravel Wrapper for the Binance API.",
     "keywords": [
         "binance",
@@ -7,7 +7,7 @@
         "laravel-binance",
         "laravel-binance-api"
     ],
-    "homepage": "https://github.com/TechTailor/Laravel-Binance-Api",
+    "homepage": "https://github.com/oralunal/Laravel-Binance-Api",
     "license": "MIT",
     "authors": [
         {
